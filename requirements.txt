@@ -11,3 +11,4 @@ statistics
 pandas_profiling
 joblib
 streamlit_pandas_profiling
+annotated_text
