@@ -11,7 +11,7 @@ from PIL import Image
 import joblib
 import plotly.express as px
 import statistics as stat
-from annotated_text import annotated_text
+#from annotated_text import annotated_text
 
 logo = Image.open('logo.png')
 st.set_page_config(page_title="Scoring Credit", page_icon=logo, layout="wide")
