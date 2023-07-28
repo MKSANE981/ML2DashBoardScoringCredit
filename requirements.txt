@@ -11,6 +11,5 @@ seaborn
 Image
 joblib
 statisticst
-annotated_text
 pandas_profiling
 st_profile_report
