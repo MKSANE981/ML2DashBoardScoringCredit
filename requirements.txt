@@ -6,7 +6,6 @@ matplotlib
 plotly
 datetime
 st_pages
-seaborn
 Image
 statisticst
 pandas_profiling
