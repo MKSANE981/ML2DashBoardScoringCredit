@@ -11,3 +11,4 @@ statistics
 pandas_profiling
 st_profile_report
 joblib
+streamlit_pandas_profiling
