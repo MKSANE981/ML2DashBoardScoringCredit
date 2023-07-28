@@ -110,7 +110,7 @@ with col1:
         f'<p class="big-font"><span class="color"> {filtered_data.shape[0]} </span></p>',
         unsafe_allow_html=True)
 with col2:
-    st.write("Sortie 2")
+    st.write(" ")
 lig1, lig2, lig3,lig4, lig5 = st.columns([5,1,5,1,5])
 
 with lig1:
